@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90fbc48b.css",
+    "main.js": "/static/js/main.368a0d93.js",
+    "static/media/hsoub-logo.png": "/static/media/hsoub-logo.76dea5f076a256f64a85.png",
+    "index.html": "/index.html",
+    "main.90fbc48b.css.map": "/static/css/main.90fbc48b.css.map",
+    "main.368a0d93.js.map": "/static/js/main.368a0d93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90fbc48b.css",
+    "static/js/main.368a0d93.js"
+  ]
+}
