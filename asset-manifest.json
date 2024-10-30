@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notes-app/static/css/main.12d0582b.css",
+    "main.js": "/Notes-app/static/js/main.368a0d93.js",
+    "static/media/fa-solid-900.ttf": "/Notes-app/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Notes-app/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Notes-app/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Notes-app/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Notes-app/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Notes-app/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/hsoub-logo.png": "/Notes-app/static/media/hsoub-logo.76dea5f076a256f64a85.png",
+    "static/media/fa-v4compatibility.ttf": "/Notes-app/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Notes-app/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Notes-app/index.html",
+    "main.12d0582b.css.map": "/Notes-app/static/css/main.12d0582b.css.map",
+    "main.368a0d93.js.map": "/Notes-app/static/js/main.368a0d93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12d0582b.css",
+    "static/js/main.368a0d93.js"
+  ]
+}
