@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.90fbc48b.css",
-    "main.js": "/static/js/main.368a0d93.js",
-    "static/media/hsoub-logo.png": "/static/media/hsoub-logo.76dea5f076a256f64a85.png",
-    "index.html": "/index.html",
-    "main.90fbc48b.css.map": "/static/css/main.90fbc48b.css.map",
-    "main.368a0d93.js.map": "/static/js/main.368a0d93.js.map"
+    "main.css": "/Notes/static/css/main.b85fe71f.css",
+    "main.js": "/Notes/static/js/main.368a0d93.js",
+    "static/media/hsoub-logo.png": "/Notes/static/media/hsoub-logo.76dea5f076a256f64a85.png",
+    "index.html": "/Notes/index.html",
+    "main.b85fe71f.css.map": "/Notes/static/css/main.b85fe71f.css.map",
+    "main.368a0d93.js.map": "/Notes/static/js/main.368a0d93.js.map"
   },
   "entrypoints": [
-    "static/css/main.90fbc48b.css",
+    "static/css/main.b85fe71f.css",
     "static/js/main.368a0d93.js"
   ]
 }

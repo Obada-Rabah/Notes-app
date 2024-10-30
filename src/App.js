@@ -7,6 +7,7 @@ import NotesList from './components/Notes/NotesList';
 import Note from './components/Notes/note';
 import NoteForm from './components/Notes/Noteform';
 import Alert from './components/Alert';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 
 function App() {
