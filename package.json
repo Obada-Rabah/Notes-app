@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Obada-Rabah.github.io/Notes-Project",
+  "homepage": "https://obada-rabah.github.io/Notes",
   "name": "notes",
   "version": "0.1.0",
   "private": true,
@@ -8,16 +8,15 @@
     "@capacitor/cli": "^6.1.2",
     "@capacitor/core": "^6.1.2",
     "@capacitor/ios": "^6.1.2",
-    "gh-pages": "^6.2.0",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",  
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
@@ -32,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
